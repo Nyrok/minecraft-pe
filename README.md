@@ -59,7 +59,7 @@ server.getInformations().then(data => {
 #### All of above (Full Exammple)
 ```js
 const Minecraft = require('minecraft-pe');
-const server = new Minecraft("YOUR_SERVER_API_KEY);
+const server = new Minecraft("YOUR_SERVER_API_KEY");
 
 server.getInformations().then(data => console.log(data));
 ```
