@@ -5,7 +5,7 @@
 *This structure is necessary in order for the package to work.*
 ```js
 const Minecraft = require('minecraft-pe');
-const server = new Minecraft("YOUR_SERVER_API_KEY);
+const server = new Minecraft("YOUR_SERVER_API_KEY");
 ```
 > **You can get your `SERVER_API_KEY` [here](https://minecraftpocket-servers.com/servers/manage/) by clicking in the gear button** <br>
 (You must have registered a minecraft server before btw) <br>
