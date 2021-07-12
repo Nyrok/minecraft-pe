@@ -1,0 +1,38 @@
+{
+  "name": "minecraft-pe",
+  "version": "1.0.0",
+  "description": "A package using minecraftpocket-servers.com API that allow users to easily manage their minecraft bedrock servers.",
+  "main": "main.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "const Minecraft = require('minecraft-pe')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyrok/minecraft-pe.git"
+  },
+  "keywords": [
+    "minecraft",
+    "minecraft-api",
+    "src",
+    "nyrok",
+    "easy",
+    "open-source",
+    "api",
+    "mcpe",
+    "mcbe",
+    "mc",
+    "help",
+    "easy"
+  ],
+  "author": "@Nyrok10 on Twitter",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Nyrok/minecraft-pe/issues"
+  },
+  "homepage": "https://github.com/Nyrok/minecraft-pe#readme"
+}
