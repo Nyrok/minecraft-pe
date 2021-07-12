@@ -56,7 +56,7 @@ server.getInformations().then(data => {
   last_online: 'July 11th, 2021 04:01 PM EST'
 }
 ```
-#### All of above (Full Exammple)
+#### All of above (Full Example)
 ```js
 const Minecraft = require('minecraft-pe');
 const server = new Minecraft("YOUR_SERVER_API_KEY");
