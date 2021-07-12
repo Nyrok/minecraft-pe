@@ -17,8 +17,8 @@ const server = new Minecraft("YOUR_SERVER_API_KEY");
 ###### Code
 ```js
 server.getInformations().then(data => {
-    console.log(data)
-    const id = data.id
+    console.log(data);
+    const id = data.id;
     const name = data.name;
     const address = data.address;
     const port = data.port;
